@@ -1,0 +1,3 @@
+C:/Users/joaom/Documents/GitHub/CarRental/cmake-build-debug/CMakeFiles/CarRental.dir
+C:/Users/joaom/Documents/GitHub/CarRental/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaom/Documents/GitHub/CarRental/cmake-build-debug/CMakeFiles/rebuild_cache.dir
